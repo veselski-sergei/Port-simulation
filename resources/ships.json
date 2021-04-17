@@ -1,0 +1,1661 @@
+[
+  {
+    "name": "B-7",
+    "type": "BULK",
+    "weight": 3338,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 1,
+      "hourOfDay": 13,
+      "minute": 11,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 7,
+      "hourOfDay": 16,
+      "minute": 51,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-5",
+    "type": "BULK",
+    "weight": 3581,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 2,
+      "hourOfDay": 8,
+      "minute": 37,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 5,
+      "hourOfDay": 0,
+      "minute": 24,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-27",
+    "type": "BULK",
+    "weight": 8855,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 2,
+      "hourOfDay": 13,
+      "minute": 57,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 8,
+      "hourOfDay": 23,
+      "minute": 53,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-29",
+    "type": "CONTAINER",
+    "weight": 6986,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 3,
+      "hourOfDay": 4,
+      "minute": 58,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 2,
+      "hourOfDay": 13,
+      "minute": 43,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-11",
+    "type": "CONTAINER",
+    "weight": 5934,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 3,
+      "hourOfDay": 9,
+      "minute": 36,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 7,
+      "hourOfDay": 11,
+      "minute": 18,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-6",
+    "type": "CONTAINER",
+    "weight": 6048,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 3,
+      "hourOfDay": 17,
+      "minute": 36,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 2,
+      "hourOfDay": 2,
+      "minute": 4,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-14",
+    "type": "BULK",
+    "weight": 5517,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 4,
+      "hourOfDay": 2,
+      "minute": 16,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 3,
+      "hourOfDay": 17,
+      "minute": 22,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-21",
+    "type": "BULK",
+    "weight": 6890,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 4,
+      "hourOfDay": 19,
+      "minute": 37,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 4,
+      "hourOfDay": 5,
+      "minute": 52,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-24",
+    "type": "BULK",
+    "weight": 8920,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 5,
+      "hourOfDay": 15,
+      "minute": 13,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 8,
+      "hourOfDay": 18,
+      "minute": 51,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-2",
+    "type": "LIQUID",
+    "weight": 6817,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 5,
+      "hourOfDay": 16,
+      "minute": 22,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 3,
+      "hourOfDay": 4,
+      "minute": 24,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-15",
+    "type": "LIQUID",
+    "weight": 2244,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 6,
+      "hourOfDay": 4,
+      "minute": 44,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 3,
+      "hourOfDay": 17,
+      "minute": 0,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-25",
+    "type": "LIQUID",
+    "weight": 6404,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 6,
+      "hourOfDay": 10,
+      "minute": 31,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 4,
+      "hourOfDay": 3,
+      "minute": 13,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-9",
+    "type": "BULK",
+    "weight": 8512,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 7,
+      "hourOfDay": 11,
+      "minute": 51,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 4,
+      "hourOfDay": 0,
+      "minute": 53,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-13",
+    "type": "CONTAINER",
+    "weight": 3737,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 7,
+      "hourOfDay": 15,
+      "minute": 4,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 3,
+      "hourOfDay": 9,
+      "minute": 48,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-26",
+    "type": "LIQUID",
+    "weight": 9881,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 8,
+      "hourOfDay": 8,
+      "minute": 49,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 2,
+      "hourOfDay": 13,
+      "minute": 24,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-17",
+    "type": "BULK",
+    "weight": 4838,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 8,
+      "hourOfDay": 19,
+      "minute": 53,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 9,
+      "hourOfDay": 5,
+      "minute": 50,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-10",
+    "type": "BULK",
+    "weight": 2245,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 9,
+      "hourOfDay": 8,
+      "minute": 57,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 8,
+      "hourOfDay": 12,
+      "minute": 6,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-9",
+    "type": "CONTAINER",
+    "weight": 6936,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 9,
+      "hourOfDay": 22,
+      "minute": 24,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 7,
+      "hourOfDay": 22,
+      "minute": 51,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-22",
+    "type": "LIQUID",
+    "weight": 4803,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 10,
+      "hourOfDay": 2,
+      "minute": 55,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 12,
+      "hourOfDay": 0,
+      "minute": 51,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-18",
+    "type": "CONTAINER",
+    "weight": 1449,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 10,
+      "hourOfDay": 4,
+      "minute": 29,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 6,
+      "hourOfDay": 7,
+      "minute": 45,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-23",
+    "type": "LIQUID",
+    "weight": 8697,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 10,
+      "hourOfDay": 17,
+      "minute": 24,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 16,
+      "hourOfDay": 20,
+      "minute": 52,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-31",
+    "type": "LIQUID",
+    "weight": 7339,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 10,
+      "hourOfDay": 22,
+      "minute": 6,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 7,
+      "minute": 44,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-24",
+    "type": "CONTAINER",
+    "weight": 2223,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 11,
+      "hourOfDay": 3,
+      "minute": 18,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 16,
+      "hourOfDay": 12,
+      "minute": 48,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-8",
+    "type": "CONTAINER",
+    "weight": 7248,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 11,
+      "hourOfDay": 17,
+      "minute": 44,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 17,
+      "hourOfDay": 23,
+      "minute": 9,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-23",
+    "type": "CONTAINER",
+    "weight": 101,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 11,
+      "hourOfDay": 23,
+      "minute": 8,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 2,
+      "minute": 21,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-21",
+    "type": "LIQUID",
+    "weight": 7763,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 12,
+      "hourOfDay": 1,
+      "minute": 13,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 9,
+      "hourOfDay": 16,
+      "minute": 58,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-3",
+    "type": "CONTAINER",
+    "weight": 1533,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 12,
+      "hourOfDay": 7,
+      "minute": 47,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 7,
+      "hourOfDay": 0,
+      "minute": 43,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-1",
+    "type": "LIQUID",
+    "weight": 9402,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 12,
+      "hourOfDay": 9,
+      "minute": 46,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
+      "hourOfDay": 13,
+      "minute": 24,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-18",
+    "type": "LIQUID",
+    "weight": 5759,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 12,
+      "hourOfDay": 21,
+      "minute": 50,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 9,
+      "hourOfDay": 2,
+      "minute": 17,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-28",
+    "type": "LIQUID",
+    "weight": 5639,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
+      "hourOfDay": 0,
+      "minute": 38,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 18,
+      "hourOfDay": 18,
+      "minute": 40,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-16",
+    "type": "BULK",
+    "weight": 6303,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
+      "hourOfDay": 14,
+      "minute": 43,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 18,
+      "minute": 44,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-4",
+    "type": "CONTAINER",
+    "weight": 1743,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
+      "hourOfDay": 16,
+      "minute": 42,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 16,
+      "hourOfDay": 23,
+      "minute": 55,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-10",
+    "type": "CONTAINER",
+    "weight": 3017,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 8,
+      "minute": 48,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 9,
+      "hourOfDay": 15,
+      "minute": 23,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-12",
+    "type": "BULK",
+    "weight": 9363,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 11,
+      "minute": 44,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
+      "hourOfDay": 13,
+      "minute": 57,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-26",
+    "type": "CONTAINER",
+    "weight": 4211,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 13,
+      "minute": 36,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 16,
+      "hourOfDay": 6,
+      "minute": 17,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-19",
+    "type": "BULK",
+    "weight": 1757,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 18,
+      "minute": 20,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 18,
+      "hourOfDay": 13,
+      "minute": 53,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-27",
+    "type": "LIQUID",
+    "weight": 746,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 4,
+      "minute": 27,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 17,
+      "hourOfDay": 22,
+      "minute": 2,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-29",
+    "type": "LIQUID",
+    "weight": 6606,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 13,
+      "minute": 31,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 0,
+      "minute": 33,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-15",
+    "type": "BULK",
+    "weight": 6599,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 13,
+      "minute": 33,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 20,
+      "hourOfDay": 6,
+      "minute": 10,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-16",
+    "type": "CONTAINER",
+    "weight": 302,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 17,
+      "minute": 51,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 17,
+      "hourOfDay": 13,
+      "minute": 23,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-15",
+    "type": "CONTAINER",
+    "weight": 7336,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 23,
+      "minute": 31,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 14,
+      "hourOfDay": 11,
+      "minute": 4,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-27",
+    "type": "CONTAINER",
+    "weight": 1429,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 23,
+      "minute": 40,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
+      "hourOfDay": 21,
+      "minute": 33,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-32",
+    "type": "LIQUID",
+    "weight": 2294,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 16,
+      "hourOfDay": 1,
+      "minute": 52,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 15,
+      "hourOfDay": 13,
+      "minute": 58,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-17",
+    "type": "LIQUID",
+    "weight": 364,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 16,
+      "hourOfDay": 2,
+      "minute": 51,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 17,
+      "hourOfDay": 3,
+      "minute": 21,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-7",
+    "type": "CONTAINER",
+    "weight": 74,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 17,
+      "hourOfDay": 10,
+      "minute": 9,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 17,
+      "hourOfDay": 10,
+      "minute": 15,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-6",
+    "type": "BULK",
+    "weight": 8668,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 17,
+      "hourOfDay": 18,
+      "minute": 54,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 19,
+      "hourOfDay": 0,
+      "minute": 13,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-5",
+    "type": "CONTAINER",
+    "weight": 3988,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 18,
+      "hourOfDay": 0,
+      "minute": 33,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 21,
+      "hourOfDay": 6,
+      "minute": 48,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-19",
+    "type": "LIQUID",
+    "weight": 5018,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 18,
+      "hourOfDay": 13,
+      "minute": 35,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 23,
+      "hourOfDay": 14,
+      "minute": 15,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-6",
+    "type": "LIQUID",
+    "weight": 2507,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 19,
+      "hourOfDay": 15,
+      "minute": 56,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 13,
+      "hourOfDay": 19,
+      "minute": 25,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-21",
+    "type": "CONTAINER",
+    "weight": 232,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 20,
+      "hourOfDay": 7,
+      "minute": 20,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 25,
+      "hourOfDay": 17,
+      "minute": 11,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-22",
+    "type": "CONTAINER",
+    "weight": 2440,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 20,
+      "hourOfDay": 15,
+      "minute": 29,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 18,
+      "hourOfDay": 9,
+      "minute": 55,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-11",
+    "type": "BULK",
+    "weight": 9177,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 20,
+      "hourOfDay": 15,
+      "minute": 33,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 23,
+      "minute": 28,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-23",
+    "type": "BULK",
+    "weight": 9941,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 21,
+      "hourOfDay": 13,
+      "minute": 58,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 25,
+      "hourOfDay": 17,
+      "minute": 12,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-12",
+    "type": "CONTAINER",
+    "weight": 9890,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 21,
+      "hourOfDay": 15,
+      "minute": 6,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 26,
+      "hourOfDay": 9,
+      "minute": 17,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-25",
+    "type": "BULK",
+    "weight": 478,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 21,
+      "hourOfDay": 21,
+      "minute": 57,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 18,
+      "hourOfDay": 12,
+      "minute": 51,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-1",
+    "type": "BULK",
+    "weight": 2906,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 22,
+      "hourOfDay": 10,
+      "minute": 1,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 22,
+      "hourOfDay": 2,
+      "minute": 10,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-20",
+    "type": "LIQUID",
+    "weight": 9314,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 22,
+      "hourOfDay": 13,
+      "minute": 8,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 22,
+      "hourOfDay": 22,
+      "minute": 23,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-16",
+    "type": "LIQUID",
+    "weight": 9819,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 22,
+      "hourOfDay": 16,
+      "minute": 48,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 18,
+      "hourOfDay": 1,
+      "minute": 50,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-13",
+    "type": "LIQUID",
+    "weight": 9540,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 23,
+      "hourOfDay": 2,
+      "minute": 21,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 25,
+      "hourOfDay": 6,
+      "minute": 14,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-25",
+    "type": "CONTAINER",
+    "weight": 1089,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 23,
+      "hourOfDay": 3,
+      "minute": 48,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 21,
+      "hourOfDay": 3,
+      "minute": 58,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-1",
+    "type": "CONTAINER",
+    "weight": 4742,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 1,
+      "minute": 32,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 19,
+      "hourOfDay": 17,
+      "minute": 28,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-18",
+    "type": "BULK",
+    "weight": 6772,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 7,
+      "minute": 27,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 20,
+      "hourOfDay": 12,
+      "minute": 24,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-4",
+    "type": "BULK",
+    "weight": 4551,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 18,
+      "minute": 54,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 19,
+      "hourOfDay": 10,
+      "minute": 27,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-10",
+    "type": "LIQUID",
+    "weight": 8296,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 25,
+      "hourOfDay": 4,
+      "minute": 47,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 28,
+      "hourOfDay": 5,
+      "minute": 21,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-17",
+    "type": "CONTAINER",
+    "weight": 8277,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 25,
+      "hourOfDay": 5,
+      "minute": 20,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 30,
+      "hourOfDay": 23,
+      "minute": 4,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-12",
+    "type": "LIQUID",
+    "weight": 9368,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 25,
+      "hourOfDay": 6,
+      "minute": 47,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 14,
+      "minute": 42,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-30",
+    "type": "LIQUID",
+    "weight": 9205,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 25,
+      "hourOfDay": 11,
+      "minute": 41,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 22,
+      "hourOfDay": 2,
+      "minute": 34,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-26",
+    "type": "BULK",
+    "weight": 7180,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 26,
+      "hourOfDay": 6,
+      "minute": 15,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 27,
+      "hourOfDay": 17,
+      "minute": 56,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-14",
+    "type": "LIQUID",
+    "weight": 7448,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 26,
+      "hourOfDay": 9,
+      "minute": 52,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 19,
+      "hourOfDay": 21,
+      "minute": 49,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-19",
+    "type": "CONTAINER",
+    "weight": 46,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 26,
+      "hourOfDay": 15,
+      "minute": 9,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 30,
+      "hourOfDay": 23,
+      "minute": 58,
+      "second": 0
+    }
+  },
+  {
+    "name": "L-8",
+    "type": "LIQUID",
+    "weight": 6362,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 27,
+      "hourOfDay": 8,
+      "minute": 6,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 27,
+      "hourOfDay": 18,
+      "minute": 51,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-2",
+    "type": "CONTAINER",
+    "weight": 8996,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 27,
+      "hourOfDay": 10,
+      "minute": 20,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 22,
+      "hourOfDay": 5,
+      "minute": 23,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-14",
+    "type": "CONTAINER",
+    "weight": 4093,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 29,
+      "hourOfDay": 4,
+      "minute": 19,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 22,
+      "hourOfDay": 14,
+      "minute": 20,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-28",
+    "type": "CONTAINER",
+    "weight": 7802,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 29,
+      "hourOfDay": 7,
+      "minute": 35,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 30,
+      "hourOfDay": 5,
+      "minute": 2,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-20",
+    "type": "BULK",
+    "weight": 5372,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 29,
+      "hourOfDay": 7,
+      "minute": 59,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 15,
+      "minute": 53,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-13",
+    "type": "BULK",
+    "weight": 4639,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 29,
+      "hourOfDay": 21,
+      "minute": 23,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 24,
+      "hourOfDay": 17,
+      "minute": 34,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-8",
+    "type": "BULK",
+    "weight": 1035,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 30,
+      "hourOfDay": 1,
+      "minute": 51,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 26,
+      "hourOfDay": 4,
+      "minute": 47,
+      "second": 0
+    }
+  },
+  {
+    "name": "B-3",
+    "type": "BULK",
+    "weight": 6554,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 30,
+      "hourOfDay": 6,
+      "minute": 40,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 30,
+      "hourOfDay": 3,
+      "minute": 2,
+      "second": 0
+    }
+  },
+  {
+    "name": "C-20",
+    "type": "CONTAINER",
+    "weight": 1173,
+    "actualTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 30,
+      "hourOfDay": 7,
+      "minute": 6,
+      "second": 0
+    },
+    "scheduledTimeOfArrival": {
+      "year": 2021,
+      "month": 3,
+      "dayOfMonth": 26,
+      "hourOfDay": 14,
+      "minute": 42,
+      "second": 0
+    }
+  }
+]
